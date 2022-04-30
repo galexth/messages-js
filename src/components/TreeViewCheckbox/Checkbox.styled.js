@@ -9,8 +9,8 @@ export const Title = styled.span`
   padding: 4px 2px;
   cursor: pointer;
   user-select: none;
-  ${(p) => p.bold && `font-weight: 500;`}
+  ${(p) => p.bold && `text-decoration: underline;`}
   &:hover {
-    font-weight: bold;
+    text-decoration: underline;
   }
 `;
