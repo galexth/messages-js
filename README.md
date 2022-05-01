@@ -1,3 +1,6 @@
+# Deprecated! Moved to [tree-view-test-ts](https://github.com/galexth/tree-view-test-ts).
+
+
 # Getting Started
 
 `npm install`
